@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![David's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidcoderistov&theme=github)
+<img align="center" src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact)
 
 <!--
 **davidcoderistov/davidcoderistov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
