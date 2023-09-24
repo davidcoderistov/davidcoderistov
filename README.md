@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidcoderistov)](https://github.com/davidcoderistov/github-readme-stats)
+![David's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davidcoderistov&theme=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact)
 
