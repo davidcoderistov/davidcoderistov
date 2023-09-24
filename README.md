@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" width="45%">
+  <img alt="Skills" src="https://skillicons.dev/icons?i=ts,react,vite,graphql,apollo,figma,docker,nodejs,express&perline=3" width="25%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact" width="45%">
 </p>
