@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
-  <img alt="Skills" src="https://skillicons.dev/icons?i=ts,react,vite,redux,graphql,apollo,nodejs,mongodb,express,figma,docker,aws&perline=4" width="45%">
+  <img alt="Skills" src="https://skillicons.dev/icons?i=ts,react,vite,redux,graphql,apollo,nodejs,mongodb,express,figma,docker,aws&perline=4" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact" width="55%">
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact" width="45%">
 </p>
 
 
