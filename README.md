@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img align="center" src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact" />
+### Things I code with            |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact)
 
 
 <!--
