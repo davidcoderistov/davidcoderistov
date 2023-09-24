@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### Things I code with            |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact)
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)  | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcoderistov&layout=compact)  |
 
 
 <!--
