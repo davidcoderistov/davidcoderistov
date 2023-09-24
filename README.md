@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm David, Frontend engineer by day, ☀️ Fullstack enthusiast by night 🌝.
+I'm David, Frontend engineer by day ☀️, Fullstack enthusiast by night 🌝.
 
 ### Things I code with
 <p align="left">
