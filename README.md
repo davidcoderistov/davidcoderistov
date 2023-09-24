@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm David, Frontend engineer by day, ☀️ Fullstack enthusiast by night 🌝.
+
 <p align="center">
   <img alt="Skills" src="https://skillicons.dev/icons?i=ts,react,vite,redux,graphql,apollo,nodejs,mongodb,express,figma,docker,aws&perline=4" width="35%">
 &nbsp; &nbsp; &nbsp; &nbsp;
