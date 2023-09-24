@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm David, Frontend engineer by day, ☀️ Fullstack enthusiast by night 🌝.
 
